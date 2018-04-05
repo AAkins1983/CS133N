@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\C#User\Desktop\Tutorial 5-5\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 5-5 - Appending Friend File\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 5-5 - Appending Friend File\Friend File\Friend File\obj\x86\Debug\Friend File.pdb

@@ -1,0 +1,20 @@
+Calculate Button
+	
+	Get gallons
+	Get conversionType
+	
+	if conversionType = "quarts" or conversionType = "Quarts"
+		conversion = gallons * 4	
+		display conversion in output label
+	else if conversionType = "pints" or conversionType = "Pints"
+		conversion = gallons * 8
+		display conversion in output label
+	else if conversionType = "cups" or conversionType = "Cups"
+		conversion = gallons * 16
+		display conversion in output label
+	else
+		display error message "Invalid input"
+	end if 
+	
+End
+	

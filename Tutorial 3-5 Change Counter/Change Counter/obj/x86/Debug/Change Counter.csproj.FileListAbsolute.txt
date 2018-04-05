@@ -1,0 +1,16 @@
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\C#User\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.pdb
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.pdb
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\Manda\Desktop\Lab 4\Tutorial3_5\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.Cache

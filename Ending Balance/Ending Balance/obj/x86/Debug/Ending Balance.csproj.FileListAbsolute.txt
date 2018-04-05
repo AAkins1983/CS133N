@@ -1,0 +1,12 @@
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+C:\Users\C#User\Desktop\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-1\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
+C:\Users\Manda\Desktop\CS133N\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+C:\Users\Manda\Desktop\CS133N\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb

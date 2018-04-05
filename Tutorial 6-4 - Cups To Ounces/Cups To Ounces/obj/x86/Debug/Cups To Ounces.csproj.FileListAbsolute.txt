@@ -1,0 +1,8 @@
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-4\Tutorial 6-4 - Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb

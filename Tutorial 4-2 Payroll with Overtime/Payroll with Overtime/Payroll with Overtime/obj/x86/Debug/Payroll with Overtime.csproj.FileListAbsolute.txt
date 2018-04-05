@@ -1,0 +1,10 @@
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Form1.resources
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2 Payroll with Overtime\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 4-2 Payroll with Overtime\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb

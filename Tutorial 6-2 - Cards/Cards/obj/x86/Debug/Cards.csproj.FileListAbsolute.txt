@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\bin\Debug\Cards.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.Form1.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.Properties.Resources.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-2\Turorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 6-2 - Cards\Cards\obj\x86\Debug\Cards.pdb

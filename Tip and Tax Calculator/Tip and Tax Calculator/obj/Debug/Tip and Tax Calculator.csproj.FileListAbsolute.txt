@@ -1,0 +1,21 @@
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.exe.config
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.exe
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.pdb
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.csprojResolveAssemblyReference.cache
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip_and_Tax_Calculator.Form1.resources
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip_and_Tax_Calculator.Properties.Resources.resources
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.csproj.GenerateResource.Cache
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.exe
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.pdb
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.exe.config
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.exe
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.pdb
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.exe
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.pdb
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip_and_Tax_Calculator.Form1.resources
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip_and_Tax_Calculator.Properties.Resources.resources
+C:\Users\Manda\Desktop\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS133N\Tip and Tax Calculator\Tip and Tax Calculator\bin\Debug\Tip and Tax Calculator.exe.config
+C:\Users\Manda\Desktop\CS133N\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.exe
+C:\Users\Manda\Desktop\CS133N\Tip and Tax Calculator\Tip and Tax Calculator\obj\Debug\Tip and Tax Calculator.pdb

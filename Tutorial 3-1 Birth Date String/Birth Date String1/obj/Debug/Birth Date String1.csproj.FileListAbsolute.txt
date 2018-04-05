@@ -1,0 +1,12 @@
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Birth Date String1\Birth Date String1\bin\Debug\Birth Date String1.exe.config
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Birth Date String1\Birth Date String1\obj\Debug\Birth Date String1.csprojResolveAssemblyReference.cache
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Birth Date String1\Birth Date String1\obj\Debug\Birth_Date_String1.Form1.resources
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Birth Date String1\Birth Date String1\obj\Debug\Birth_Date_String1.Properties.Resources.resources
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Birth Date String1\Birth Date String1\obj\Debug\Birth Date String1.csproj.GenerateResource.Cache
+F:\CS133N\Birth Date String1\Birth Date String1\bin\Debug\Birth Date String1.exe.config
+C:\Users\Manda\Desktop\CS133N\Birth Date String1\Birth Date String1\bin\Debug\Birth Date String1.exe.config
+C:\Users\Manda\Desktop\CS133N\Birth Date String\Birth Date String1\bin\Debug\Birth Date String1.exe.config
+C:\Users\Manda\Desktop\CS133N\Birth Date String\Birth Date String1\obj\Debug\Birth Date String1.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Birth Date String\Birth Date String1\obj\Debug\Birth_Date_String1.Form1.resources
+C:\Users\Manda\Desktop\CS133N\Birth Date String\Birth Date String1\obj\Debug\Birth_Date_String1.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Birth Date String\Birth Date String1\obj\Debug\Birth Date String1.csproj.GenerateResource.Cache

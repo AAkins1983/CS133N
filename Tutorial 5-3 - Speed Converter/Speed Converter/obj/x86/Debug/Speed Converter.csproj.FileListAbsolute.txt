@@ -1,0 +1,9 @@
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\bin\Debug\Speed Converter.exe
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\bin\Debug\Speed Converter.pdb
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Form1.resources
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Properties.Resources.resources
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.exe
+C:\Users\Manda\Desktop\Manda_C#\Labs_8_and_9_Start\Tutorial 5-3\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 5-3 - Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 5-3 - Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.pdb

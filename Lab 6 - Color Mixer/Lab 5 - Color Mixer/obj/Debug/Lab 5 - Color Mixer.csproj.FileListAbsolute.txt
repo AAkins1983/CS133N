@@ -1,0 +1,18 @@
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\bin\Debug\Lab 5 - Color Mixer.exe.config
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\bin\Debug\Lab 5 - Color Mixer.exe
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\bin\Debug\Lab 5 - Color Mixer.pdb
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.csprojResolveAssemblyReference.cache
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab_5___Color_Mixer.colorMixer.resources
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab_5___Color_Mixer.Properties.Resources.resources
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.csproj.GenerateResource.Cache
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.exe
+c:\users\manda\documents\visual studio 2012\Projects\Lab 5 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\bin\Debug\Lab 5 - Color Mixer.exe.config
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.exe
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\bin\Debug\Lab 5 - Color Mixer.exe
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\bin\Debug\Lab 5 - Color Mixer.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab_5___Color_Mixer.colorMixer.resources
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab_5___Color_Mixer.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Lab 6 - Color Mixer\Lab 5 - Color Mixer\obj\Debug\Lab 5 - Color Mixer.csproj.GenerateResource.Cache

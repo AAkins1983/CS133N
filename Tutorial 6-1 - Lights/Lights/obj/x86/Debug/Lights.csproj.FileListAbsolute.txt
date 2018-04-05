@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\bin\Debug\Lights.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-1\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 6-1 - Lights\Lights\obj\x86\Debug\Lights.pdb

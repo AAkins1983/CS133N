@@ -1,0 +1,12 @@
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\bin\Debug\Lab 7 - Software Sales.exe.config
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab 7 - Software Sales.csprojResolveAssemblyReference.cache
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab_7___Software_Sales.softwareSales.resources
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab_7___Software_Sales.Properties.Resources.resources
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab 7 - Software Sales.csproj.GenerateResource.Cache
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\bin\Debug\Lab 7 - Software Sales.exe
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\bin\Debug\Lab 7 - Software Sales.pdb
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab 7 - Software Sales.exe
+c:\users\manda\documents\visual studio 2012\Projects\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab 7 - Software Sales.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 7 - Software Sales\Lab 7 - Software Sales\bin\Debug\Lab 7 - Software Sales.exe.config
+C:\Users\Manda\Desktop\CS133N\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab 7 - Software Sales.exe
+C:\Users\Manda\Desktop\CS133N\Lab 7 - Software Sales\Lab 7 - Software Sales\obj\Debug\Lab 7 - Software Sales.pdb

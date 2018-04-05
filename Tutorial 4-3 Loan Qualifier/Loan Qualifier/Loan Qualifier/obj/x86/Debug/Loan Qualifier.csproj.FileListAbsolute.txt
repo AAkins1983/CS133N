@@ -1,0 +1,16 @@
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Form1.resources
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-3\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.exe
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.pdb
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.loanQualifier.resources
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Manda\Desktop\Tutorial 4-3 Loan Qualifier\Loan Qualifier\Loan Qualifier\obj\x86\Debug\Loan Qualifier.csproj.GenerateResource.Cache

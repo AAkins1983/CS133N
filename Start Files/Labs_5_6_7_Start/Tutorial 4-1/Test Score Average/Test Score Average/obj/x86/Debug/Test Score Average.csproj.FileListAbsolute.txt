@@ -1,0 +1,8 @@
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.exe
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\obj\x86\Debug\Test Score Average.pdb
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-1\Test Score Average\Test Score Average\obj\x86\Debug\Test_Score_Average.testScoreAverage.resources

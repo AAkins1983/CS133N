@@ -1,0 +1,7 @@
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\obj\x86\Debug\Color_Theme.Form1.resources
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\obj\x86\Debug\Color_Theme.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\obj\x86\Debug\Color Theme.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\obj\x86\Debug\Color Theme.exe
+C:\Users\Manda\Desktop\CS133N\Labs_5_6_7_Start\Tutorial 4-5\Color Theme\Color Theme\obj\x86\Debug\Color Theme.pdb

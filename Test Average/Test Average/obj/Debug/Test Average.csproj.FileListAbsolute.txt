@@ -1,0 +1,18 @@
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\bin\Debug\Test Average.exe.config
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\bin\Debug\Test Average.exe
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\bin\Debug\Test Average.pdb
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\obj\Debug\Test Average.csprojResolveAssemblyReference.cache
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\obj\Debug\Test_Average.Form1.resources
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\obj\Debug\Test_Average.Properties.Resources.resources
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\obj\Debug\Test Average.csproj.GenerateResource.Cache
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\obj\Debug\Test Average.exe
+c:\users\aakin\onedrive\documents\visual studio 2012\Projects\Test Average\Test Average\obj\Debug\Test Average.pdb
+C:\Users\Manda\Desktop\Test Average\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\Manda\Desktop\Test Average\Test Average\obj\Debug\Test Average.exe
+C:\Users\Manda\Desktop\Test Average\Test Average\obj\Debug\Test Average.pdb
+C:\Users\Manda\Desktop\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Manda\Desktop\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Manda\Desktop\Test Average\Test Average\obj\Debug\Test Average.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\Test Average\Test Average\obj\Debug\Test_Average.Form1.resources
+C:\Users\Manda\Desktop\Test Average\Test Average\obj\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Manda\Desktop\Test Average\Test Average\obj\Debug\Test Average.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Form1.resources
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.exe
+C:\Users\C#User\Desktop\Manda\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.pdb
+D:\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.exe
+D:\Tutorial 4-6\Time Zone\Time Zone\obj\x86\Debug\Time Zone.pdb

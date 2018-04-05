@@ -1,0 +1,14 @@
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\C#User\Desktop\CS133N\Labs_8_and_9_Start\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\C#User\Desktop\CS133N\Labs_8_and_9_Start\Tutorial 5-7\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\C#User\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb
+C:\Users\Manda\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\Manda\Desktop\CS133N\Tutorial 5-7 - Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb

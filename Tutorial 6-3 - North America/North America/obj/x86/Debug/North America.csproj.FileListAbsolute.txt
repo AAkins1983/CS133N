@@ -1,0 +1,10 @@
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North America.csprojResolveAssemblyReference.cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North_America.Form1.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North_America.Properties.Resources.resources
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North America.csproj.GenerateResource.Cache
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\bin\Debug\North America.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\bin\Debug\North America.pdb
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North America.exe
+C:\Users\C#User\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North America.pdb
+C:\Users\Manda\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North America.exe
+C:\Users\Manda\Desktop\133N\Lab_10_and_11_Start_Files\Tutorial 6-3\Tutorial 6-3 - North America\North America\obj\x86\Debug\North America.pdb

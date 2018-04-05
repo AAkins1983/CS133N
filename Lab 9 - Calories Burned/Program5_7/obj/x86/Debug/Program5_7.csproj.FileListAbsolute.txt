@@ -1,0 +1,8 @@
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\bin\Debug\Program5_7.exe
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\bin\Debug\Program5_7.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\obj\x86\Debug\Program5_7.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\obj\x86\Debug\Program5_7.Form1.resources
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\obj\x86\Debug\Program5_7.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\obj\x86\Debug\Program5_7.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\obj\x86\Debug\Program5_7.exe
+C:\Users\Manda\Desktop\CS133N\Lab 9 - Calories Burned\Program5_7\obj\x86\Debug\Program5_7.pdb

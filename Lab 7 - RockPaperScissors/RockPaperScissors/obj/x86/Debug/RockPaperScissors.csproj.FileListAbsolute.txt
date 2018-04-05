@@ -1,0 +1,16 @@
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\Program6_10.exe
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\Program6_10.pdb
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.rpsForm.resources
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.Properties.Resources.resources
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.exe
+C:\Users\Manda\Desktop\RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.exe
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\bin\Debug\Program6_10.exe
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\bin\Debug\Program6_10.pdb
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.rpsForm.resources
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\obj\x86\Debug\Program6_10.Properties.Resources.resources
+C:\Users\Manda\Desktop\CS133N\Lab 7 - RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.csproj.GenerateResource.Cache
